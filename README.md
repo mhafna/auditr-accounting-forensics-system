@@ -38,7 +38,7 @@ Instead of acting as a replacement for auditors, the system serves as a decision
 | Machine Learning | Scikit-learn |
 | Data Processing | Pandas, NumPy |
 | Visualizations | Plotly |
-| Explainability | SHAP-inspired feature explanations |
+| Explainability | Model-driven feature importance and human-readable risk explanations |
 | Dataset | Synthetic accounting transaction dataset |
 
 ---
